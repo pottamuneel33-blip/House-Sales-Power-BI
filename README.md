@@ -1,5 +1,6 @@
 🏠 House Market Power BI Report
 This Power BI project provides a comprehensive overview and detailed analysis of the housing market trends, sales performance, and house type analytics across various regions.
+
 ![Screenshot 2025-06-13 113937](https://github.com/user-attachments/assets/07054323-3987-4830-a762-a5f0eaa1034d)
 
 📊 Dashboard 1: House Market Overview
